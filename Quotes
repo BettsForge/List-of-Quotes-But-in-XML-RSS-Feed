@@ -1,0 +1,33 @@
+<rss version="2.0">
+<channel>
+<title>Quote Repository</title>
+<link>https://example.com/quotes</link>
+<description>Quotes for Yodeck display</description>
+<language>en-us</language>
+<lastBuildDate>Wed, 19 Nov 2025 00:00:00 GMT</lastBuildDate>
+<item>
+<title>Persistence</title>
+<description>
+<![CDATA[ "It does not matter how slowly you go as long as you do not stop." — Confucius ]]>
+</description>
+<guid isPermaLink="false">quote-1</guid>
+<pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Change</title>
+<description>
+<![CDATA[ "Be the change that you wish to see in the world." — Mahatma Gandhi ]]>
+</description>
+<guid isPermaLink="false">quote-2</guid>
+<pubDate>Wed, 19 Nov 2025 00:05:00 GMT</pubDate>
+</item>
+<item>
+<title>Success</title>
+<description>
+<![CDATA[ "Success is not final, failure is not fatal: it is the courage to continue that counts." — Winston Churchill ]]>
+</description>
+<guid isPermaLink="false">quote-3</guid>
+<pubDate>Wed, 19 Nov 2025 00:10:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
